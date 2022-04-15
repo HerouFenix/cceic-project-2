@@ -1,0 +1,21 @@
+== COMO UTILIZAR O COMPLAINER TRAINER ==
+Para utilizar o Complainer Trainer basta:
+ 1. Aceder a pagina online - https://complainertrainer.netlify.app/
+ 2. Fazer scroll down ate à secção "Our Topics of Learning" e selecionar um deles (ou alternativamente clicar num dos titulos dos capitulos na barra superior)
+ 3. Percorrer os conteudos presentes no site, ler as descricoes, realizar os exercicios praticos e disfrutar da aprendizagem!
+
+
+== ORGANIZACAO DO COMPLAINER TRAINER ==
+Separamos os nossos topicos de aprendizagem sobre Complaints e Conflicts para facilitar a aprendizagem.
+Cada tópico, facilmente acessivel como descrito em cima, contem:
+	- Uma página inicial com descrições e explicações por escrito sobre o tópico
+	- Vários materiais suplementares, desde videos, a blogs e papers, que ajudarão o leitor a aprofundar a sua compreensão sobre o tema
+	- Uma página de exercisios que permitirão ao leitor assentar os seus conhecimentos adquiridos e por em pratica o que aprendeu ao longo do topico
+
+== TÓPICOS DE APRENDIZAGEM ==
+1 - Definir reclamação (Definition of "Complaint")
+2 - (Statistical Data about Complaints in the Business World)
+3 - (PWOM vs NWOM)
+4 - (Phases of Professional Complaint Management)
+5 - (Alternative Thinking)
+6 - (Conflict Management across Different Cultures)
