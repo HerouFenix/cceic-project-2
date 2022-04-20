@@ -63,7 +63,7 @@
                             <li><a href="../def_complaint/def_complaint_home.html">Definition of Complaint</a></li>
                             <li><a href="../business/business_home.html">Complains in the Business World</a></li>
                             <li><a href="../pwom_nwom/pwom_nwom_home.html">PWOM vs NWOM</a></li>
-                            <li><a href="../phases/phases_home.html">Phases of Handling Complaints</a></li>
+                            <li><a href="../phases/phases_home.html" class="active">Phases of Handling Complaints</a></li>
                             <li><a href="../alt_thinking/alt_thinking_home.html">Alternative Thinking</a></li>
                             <li><a href="../cultural_differences/cultural_differences_home.html">Conflict Management & Cultures</a></li>
                         </ul>
@@ -549,93 +549,52 @@
             }
 
             // Exercise 3
-            var exercise_3_1_correct = true;
-
-            var answer = $("#exercise_3_1_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_1_correct = false;
-            }
-
-
-            var answer = $("#exercise_3_1_2");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_1_correct = false;
-            }
-
-            var answer = $("#exercise_3_1_3");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_1_correct = false;
-            }
-
-            if (!exercise_3_1_correct) {
+            var answer = $("#exercise_3_1");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
 
                 $("#exercise_3_1_wrong").css("display", "block");
                 $("#exercise_3_1_right").css("display", "none");
 
                 all_right = false;
             } else {
+                answer.css("border-color", "green")
+
                 $("#exercise_3_1_wrong").css("display", "none");
                 $("#exercise_3_1_right").css("display", "block");
             }
 
-            var exercise_3_2_correct = true;
-
-            var answer = $("#exercise_3_2_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-
-            var answer = $("#exercise_3_2_2");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-            var answer = $("#exercise_3_2_3");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-            if (!exercise_3_2_correct) {
+            var answer = $("#exercise_3_2");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
 
                 $("#exercise_3_2_wrong").css("display", "block");
                 $("#exercise_3_2_right").css("display", "none");
 
                 all_right = false;
             } else {
+                answer.css("border-color", "green")
+
                 $("#exercise_3_2_wrong").css("display", "none");
                 $("#exercise_3_2_right").css("display", "block");
             }
 
-
-            var exercise_3_3_correct = true;
-
-            var answer = $("#exercise_3_3_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-
-            var answer = $("#exercise_3_3_2");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-            var answer = $("#exercise_3_3_3");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_3_2_correct = false;
-            }
-
-            if (!exercise_3_3_correct) {
+            var answer = $("#exercise_3_3");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
 
                 $("#exercise_3_3_wrong").css("display", "block");
                 $("#exercise_3_3_right").css("display", "none");
 
                 all_right = false;
             } else {
+                answer.css("border-color", "green")
+
                 $("#exercise_3_3_wrong").css("display", "none");
                 $("#exercise_3_3_right").css("display", "block");
             }
+
+
 
             // Exercise 4
             var answer = $("#exercise_4_1");

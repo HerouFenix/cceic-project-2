@@ -60,7 +60,7 @@
                     <li class="dropdown active" style="margin-right: 50px;"><a class="active"
                             href="#features"><span>Learning Topics</span> <i class="bi bi-chevron-right"></i></a>
                         <ul>
-                            <li><a href="../def_complaint/def_complaint_home.html">Definition of Complaint</a></li>
+                            <li><a href="../def_complaint/def_complaint_home.html" class="active">Definition of Complaint</a></li>
                             <li><a href="../business/business_home.html">Complains in the Business World</a></li>
                             <li><a href="../pwom_nwom/pwom_nwom_home.html">PWOM vs NWOM</a></li>
                             <li><a href="../phases/phases_home.html">Phases of Handling Complaints</a></li>
@@ -95,39 +95,16 @@
                             <!-- Exercise 1 -->
                             <div class="form-group" style="margin-bottom: 20px;">
                                 <label for="exercise_1"><b style="color: #aaaaaa;">1. Select the only correct
-                                        option</b></label>
+                                    option</b></label>
+                                </br>
+                                <label for="exercise_1">Which of the following is the correct definition of complaint?</label>
+                                <select class="form-control" style="border-color: none;" id="exercise_1">
+                                    <option value="true">An expression of dissatisfaction from someone.</option>
+                                    <option value="false">When someone gives their opinion about a certain topic or product.</option>
+                                    <option value="false">Sugesting improvements over negative aspects about someone's work or product.</option>
+                                </select>
 
-                                <div>
-                                    <p>
-                                        Which of the following is the correct definition of complaint?
-                                    </p>
-                                </div>
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_1_1" id="exercise_1_1"
-                                        value="true" checked>
-                                    <label class="form-check-label" for="exercise_1_1">
-                                        A complaint can be defined as an expression of dissatisfaction from someone.
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_1_1" id="exercise_1_1"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_1_1">
-                                        A complaint is when someone gives their opinion about a certain topic or
-                                        product.
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_1_1" id="exercise_1_1"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_1_1">
-                                        A complaint is defined as the action of sugesting improvements over negattive
-                                        aspects about someone's work or product.
-                                    </label>
-                                </div>
-
-                                <div class="text-success" style="display: none" id="exercise_1_1_right">
+                                <div class="text-success" style="display: none" id="exercise_1_right">
                                     <b style="font-size: 15px;">Correct, "a complaint is when someone expresses their
                                         disagreement, disapproval, or disappointment." (Wendy Satin, n.d.). The second
                                         option is wrong because complaints refers to the expression of dissatisfaction
@@ -137,99 +114,76 @@
                                         someone's product or work.</b>
                                 </div>
 
-                                <div class="text-danger" style="display: none" id="exercise_1_1_wrong">
+                                <div class="text-danger" style="display: none" id="exercise_1_wrong">
                                     <b style="font-size: 15px;">Wrong. Try again!</b>
                                 </div>
-
                             </div>
 
                             <!-- Exercise 2 -->
                             <div class="form-group" style="margin-bottom: 20px;">
-                                <label for="exercise_2"><b style="color: #aaaaaa;">2. Select the only correct
-                                        option</b></label>
-
-                                <div>
-                                    <p>
-                                        Which of the following examples can be considered a customer complaint?
-                                    </p>
-                                </div>
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_2_1" id="exercise_2_1_1"
-                                        value="false" checked>
-                                    <label class="form-check-label" for="exercise_2_1">
-                                        "I really enjoyed the product, but I think that it could be improved if an extra
-                                        speaker was added"
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_2_1" id="exercise_2_1_2"
-                                        value="true">
-                                    <label class="form-check-label" for="exercise_2_1">
-                                        "I have recently bought an equipment from your brand and I have been
-                                        dissatisfied with it. The buttons around it are damaged and the interface is
-                                        lagging."
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_2_1" id="exercise_2_1_3"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_2_1">
-                                        "In my opinion you should really work harder to get better results!"
-                                    </label>
-                                </div>
-
-                                <div class="text-success" style="display: none" id="exercise_2_1_right">
-                                    <b style="font-size: 15px;">Correct, in this case the person is in fact in a
-                                        sentiment of dissatisfaction towards a product. The first option is wrong
+                                <label for="exercise_4"><b style="color: #aaaaaa;">2. Classify each of the following
+                                        quotes as either being or not being a Customer Complaint</b></label>
+                                </br>
+                                <label for="exercise_4_1">"I really enjoyed the product, but I think that it could be improved if an extra speaker was added"</label>
+                                <select class="form-control" id="exercise_4_1" style="max-width: 50%;">
+                                    <option value="false">Is a Customer Complaint</option>
+                                    <option value="true">Is NOT a Customer Complaint</option>
+                                </select>
+                                <div class="text-success" style="display: none" id="exercise_4_1_right">
+                                    <b style="font-size: 15px;">Correct! This quote is NOT a customer complaint
                                         because the person is giving an opinion about a certain product, it can be seen
-                                        as feedback for the product. The third option is wrong because we can see that
+                                        as feedback for the product.</b>
+                                </div>
+
+                                <div class="text-danger" style="display: none" id="exercise_4_1_wrong">
+                                    <b style="font-size: 15px;">Wrong... Try again!</b>
+                                </div>
+
+                                <label for="exercise_4_2" style="margin-top: 25px;">"I have recently bought an equipment from your brand and I have been dissatisfied with it. The buttons around it are damaged and the interface is lagging." </label>
+                                <select class="form-control" id="exercise_4_2" style="max-width: 50%;">
+                                    <option value="true">Is a Customer Complaint</option>
+                                    <option value="false">Is NOT a Customer Complaint</option>
+                                </select>
+                                <div class="text-success" style="display: none" id="exercise_4_2_right">
+                                    <b style="font-size: 15px;">Correct, in this case the person is in fact in a
+                                        sentiment of dissatisfaction towards a product.</b>
+                                </div>
+
+                                <div class="text-danger" style="display: none" id="exercise_4_2_wrong">
+                                    <b style="font-size: 15px;">Wrong... Try again!</b>
+                                </div>
+
+                                <label for="exercise_4_3" style="margin-top: 25px;">"In my opinion you should really work harder to get better results!" </label>
+                                <select class="form-control" id="exercise_4_3" style="max-width: 50%;">
+                                    <option value="false">Is a Customer Complaint</option>
+                                    <option value="true">Is NOT a Customer Complaint</option>
+                                </select>
+                                <div class="text-success" style="display: none" id="exercise_4_3_right">
+                                    <b style="font-size: 15px;">Correct! This quote is not a customer complaint because we can see that
                                         the person is giving their opinion, in fact it is a sugestion rather than a
                                         complaint.</b>
                                 </div>
 
-                                <div class="text-danger" style="display: none" id="exercise_2_1_wrong">
-                                    <b style="font-size: 15px;">Wrong. Try again!</b>
+                                <div class="text-danger" style="display: none" id="exercise_4_3_wrong">
+                                    <b style="font-size: 15px;">Wrong... Try again!</b>
                                 </div>
-
                             </div>
 
                             <!-- Exercise 3 -->
                             <div class="form-group" style="margin-bottom: 20px;">
                                 <label for="exercise_3"><b style="color: #aaaaaa;">3. Select the only correct
-                                        option</b></label>
+                                    option</b></label>
+                                </br>
+                                <label for="exercise_3">What is a complaint form?</label>
+                                <select class="form-control" style="border-color: none;" id="exercise_3">
+                                    <option value="true">A way for clients to give their complaints regarding a
+                                        product or business.</option>
+                                    <option value="false">Form to give opinions about a certain
+                                        product/business, often used to praise other's work.</option>
+                                    <option value="false">A way for someone to request a refund about a product.</option>
+                                </select>
 
-                                <div>
-                                    <p>
-                                        What is a complaint form?
-                                    </p>
-                                </div>
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
-                                        value="true" checked>
-                                    <label class="form-check-label" for="exercise_3_1">
-                                        A complaint form is a way for clients to give their complaints regarding a
-                                        product or business.
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_3_1">
-                                        Complaint forms are used for clients to give their opinions about a certain
-                                        product or business, these forms are often used to praise the work of others.
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_3_1">
-                                        A complaint form is a way for someone to request a refund about a product.
-                                    </label>
-                                </div>
-
-                                <div class="text-success" style="display: none" id="exercise_3_1_right">
+                                <div class="text-success" style="display: none" id="exercise_3_right">
                                     <b style="font-size: 15px;">Correct, despite also containing some feedback,
                                         complaint forms are used for clients to express the dissatisfaction about a
                                         certain product or business. The second option is wrong because complaint forms
@@ -238,11 +192,12 @@
                                         client about some product, but they are not made for asking for a refund.</b>
                                 </div>
 
-                                <div class="text-danger" style="display: none" id="exercise_3_1_wrong">
+                                <div class="text-danger" style="display: none" id="exercise_3_wrong">
                                     <b style="font-size: 15px;">Wrong. Try again!</b>
                                 </div>
-
                             </div>
+
+                   
 
                         </form>
 
@@ -363,55 +318,97 @@
             console.log("Validating Form")
 
             // Exercise 1
-            var answer = $("#exercise_1_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                $("#exercise_1_1_wrong").css("display", "block");
-                $("#exercise_1_1_right").css("display", "none");
+            var answer = $("#exercise_1");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
+
+                $("#exercise_1_wrong").css("display", "block");
+                $("#exercise_1_right").css("display", "none");
 
                 all_right = false;
             } else {
-                $("#exercise_1_1_wrong").css("display", "none");
-                $("#exercise_1_1_right").css("display", "block");
+                answer.css("border-color", "green")
+
+                $("#exercise_1_wrong").css("display", "none");
+                $("#exercise_1_right").css("display", "block");
             }
 
             // Exercise 2
-            var exercise_2_right = true
-            var answer = $("#exercise_2_1_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_2_right = false
-                all_right = false;
-            }
+            var answer = $("#exercise_4_1");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
 
-            var answer = $("#exercise_2_1_2");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_2_right = false
-                all_right = false;
-            }
+                $("#exercise_4_1_wrong").css("display", "block");
+                $("#exercise_4_1_right").css("display", "none");
 
-            var answer = $("#exercise_2_1_3");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                exercise_2_right = false
                 all_right = false;
-            }
-
-            if (exercise_2_right) {
-                $("#exercise_2_1_wrong").css("display", "none");
-                $("#exercise_2_1_right").css("display", "block");
             } else {
-                $("#exercise_2_1_wrong").css("display", "block");
-                $("#exercise_2_1_right").css("display", "none");
+                answer.css("border-color", "green")
+
+                $("#exercise_4_1_wrong").css("display", "none");
+                $("#exercise_4_1_right").css("display", "block");
             }
+
+            var answer = $("#exercise_4_2");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
+
+                $("#exercise_4_2_wrong").css("display", "block");
+                $("#exercise_4_2_right").css("display", "none");
+
+                all_right = false;
+            } else {
+                answer.css("border-color", "green")
+
+                $("#exercise_4_2_wrong").css("display", "none");
+                $("#exercise_4_2_right").css("display", "block");
+            }
+
+            var answer = $("#exercise_4_3");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
+
+                $("#exercise_4_3_wrong").css("display", "block");
+                $("#exercise_4_3_right").css("display", "none");
+
+                all_right = false;
+            } else {
+                answer.css("border-color", "green")
+
+                $("#exercise_4_3_wrong").css("display", "none");
+                $("#exercise_4_3_right").css("display", "block");
+            }
+
+            var answer = $("#exercise_4_4");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
+
+                $("#exercise_4_4_wrong").css("display", "block");
+                $("#exercise_4_4_right").css("display", "none");
+
+                all_right = false;
+            } else {
+                answer.css("border-color", "green")
+
+                $("#exercise_4_4_wrong").css("display", "none");
+                $("#exercise_4_4_right").css("display", "block");
+            }
+
 
             // Exercise 3
-            var answer = $("#exercise_3_1");
-            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
-                $("#exercise_3_1_wrong").css("display", "block");
-                $("#exercise_3_1_right").css("display", "none");
+            var answer = $("#exercise_3");
+            if (answer.val() == "false") {
+                answer.css("border-color", "red")
+
+                $("#exercise_3_wrong").css("display", "block");
+                $("#exercise_3_right").css("display", "none");
 
                 all_right = false;
             } else {
-                $("#exercise_3_1_wrong").css("display", "none");
-                $("#exercise_3_1_right").css("display", "block");
+                answer.css("border-color", "green")
+
+                $("#exercise_3_wrong").css("display", "none");
+                $("#exercise_3_right").css("display", "block");
             }
 
             // Final
