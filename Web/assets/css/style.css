@@ -863,6 +863,18 @@ section {
   bottom: 0;
   left: 0;
 }
+
+.course-details .ref:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #cccccc;
+  bottom: 0;
+  left: 0;
+}
+
 .course-details .course-info {
   background: #f6f7f6;
   padding: 10px 15px;
