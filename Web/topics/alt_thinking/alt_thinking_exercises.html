@@ -421,7 +421,7 @@
 
                         </form>
 
-                        <a onclick="validate_form()" class="get-started-btn"
+                        <a id="submit_button" class="get-started-btn"
                             style="margin-left: 0px; margin-top: 25px; color:white ; cursor: pointer;"><b>
                                 Submit!</b></a>
 
@@ -547,8 +547,10 @@
     <!-- Template Main JS File -->
     <script src="../../assets/js/main.js"></script>
 
-    <script>
-        function validate_form() {
+    <script type="module">
+        import confetti from 'https://cdn.skypack.dev/canvas-confetti';
+
+        $("#submit_button").click(function() {
             var all_right = true;
 
             // Validate form
@@ -722,10 +724,9 @@
                 $("#form_final_wrong").css("display", "none");
                 $("#form_final_right").css("display", "block");
                 $("#form_final_right_next").css("display", "block");
+                confetti()
             }
-            
-
-        }
+        })
 
     </script>
 
