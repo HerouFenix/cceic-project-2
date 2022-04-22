@@ -166,8 +166,16 @@
                                 </div>
 
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
-                                        value="true" checked>
+                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1_1"
+                                        value="false" checked>
+                                    <label class="form-check-label" for="exercise_3_1">
+                                        Have the bikes manufactured within the western culture rather than going for
+                                        eastern cultures.
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1_2"
+                                        value="true">
                                     <label class="form-check-label" for="exercise_3_1">
                                         Instead of assuming that the manufacturer understood the problem correctly, 
                                         properly explain the existing conflict and understand that different cultures
@@ -175,15 +183,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
-                                        value="false">
-                                    <label class="form-check-label" for="exercise_3_1">
-                                        Have the bikes manufactured within the western culture rather than going for
-                                        eastern cultures.
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1"
+                                    <input class="form-check-input" type="radio" name="exercise_3_1" id="exercise_3_1_3"
                                         value="false">
                                     <label class="form-check-label" for="exercise_3_1">
                                         In western cultures, the problem is identified, blame is assigned and
@@ -325,7 +325,14 @@
                             <h3 style="color: #5f70cf; margin-top: 30px;">Well done! You've just completed this topic! 🎉🥳
                             </h3>
                             <p>
-                                Congratulations on completing this topic of learning! This was the final topic! Feel free to go back to the main page and revisit the other topics to your heart's content!
+                                Congratulations on completing this topic of learning!
+                                </br>
+                                <strong>This was the final topic so we want to thank you for learning more about Complaints and Conflicts with us!</strong> Feel free to go back to the main page and revisit the other topics to your heart's content.
+                                </br>
+                                </br>
+                                We hope you enjoyed your experience in our platform!
+                                </br>
+                                 - Sincerely, the Complainer Trainer Team
                             </p>
                             <div class="row">
                                 <div class="col-lg-4">
@@ -455,8 +462,27 @@
             }
 
             // Exercise 3
-            var answer = $("#exercise_3_1");
+            var exercise_3_1_correct = true;
+            
+            var answer = $("#exercise_3_1_1");
             if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
+                exercise_3_1_correct = false;
+            }
+
+
+
+            var answer = $("#exercise_3_1_2");
+            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
+                exercise_3_1_correct = false;
+            }
+
+            var answer = $("#exercise_3_1_3");
+            if ((answer.val() == "false" && answer.is(":checked")) || (answer.val() == "true" && !answer.is(":checked"))) {
+                exercise_3_1_correct = false;
+            }
+
+            if (!exercise_3_1_correct) {
+
                 $("#exercise_3_1_wrong").css("display", "block");
                 $("#exercise_3_1_right").css("display", "none");
 
