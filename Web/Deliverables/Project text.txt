@@ -1,0 +1,1019 @@
+== index.html ==
+Learning more about Complaints and Conflicts!
+What are they, how can we handle them and much more!
+
+
+Welcome to Complainer Trainer!
+In Complainer Trainer you can find a host of learning topics about Complaints and Conflicts. From carefully selected articles and videos to exercises that will put into practice what you have learned, you can find it all within this website's pages!
+
+Easy to Follow Explanations
+We start each of our topics with a short, easy to read explanations of the subject at hand which should leave you with a full understanding of the topic! Just SCROLL DOWN and enjoy your learning! 
+
+Supplementary Materials
+Within each topic you can also find OPTIONAL supplementary materials. These materials are OPTIONAL and serve to enhance and deepen your knowledge of the topic! 
+
+Exercises
+There's no learning without practice. As such, each topic page contains a set of exercises at the end so that you can test out all that you've learned by going through our materials and solidify your learning experience. 
+
+
+Let's Get Started
+Our Learning Topics
+
+Definition of "Complaint"
+Statistical Data about Complaints in the Business World
+PWOM vs NWOM
+Phases of Professional Complaint Management
+Alternative Thinking
+Conflict Management across Different Cultures
+
+
+Development
+Our Team
+
+Diogo Silva
+IST-ID: 98776
+
+Henrique Gaspar
+IST-ID: 98879
+
+Martim Norte
+IST-ID: 87076
+
+Nichal Narotamo
+IST-ID: 98691
+
+
+== def_complaint_home.html ==
+Definition of complaint
+In this chapter we'll be briefly define the concepts of complaint, consumer complaint and complaint form. 
+
+What is the definition of complaint?
+
+A simple way of defining it can be: "expression of grief, pain, or dissatisfaction". (Merriam-Webster, 2022)
+
+Another more detailed definition for complaint is the following: "A complaint is when someone expresses their disagreement, disapproval, or disappointment. A complaint can also be a legal document filed with the Court: for example: a Complaint for Absolute Divorce or a Complaint for Custody." (Wendy Satin, 2017)
+What is a customer complaint?
+
+"Customer complaints refer to when a business does not deliver on its commitment and does not meet customer expectations in terms of the product or services. The vital aspect of every business is its clients. For greater success, businesses need more satisfied clients. And the best way to obtain new clients and maintain the existing ones is by providing them with satisfactory service. (...) A customer complaint emphasizes a problem that might be related to an organization’s product, employees or internal processes, and by hearing these problems directly from customers, an organization can investigate and improve to avoid additional complaints in the future." (ComplianceQuest, 2022)
+What is a complaint form?
+
+"A complaint form is a way to discover possible areas of improvements for your business while letting your site visitors feel heard by gathering important feedback directly on your website. Complaint forms can offer a private way for your audience to submit information online about issues with your products and services, as well as problems your employees may have." (Gennaro, 2020)
+All done? Let's do some exercises!
+
+
+References
+
+ComplianceQuest. (2022, March 11). What is a Customer Complaint? How to handle it effectively? ComplianceQuest QHSE Solutions. https://www.compliancequest.com/customer-complaints/
+
+Gennaro, L. (2020, December 17). How to Create a Customer Complaint Form in WordPress (Step by Step). WPForms. https://wpforms.com/how-to-create-a-complaint-form-in-wordpress-step-by-step/
+
+Merriam-Webster. (n.d.). Complaint. In Merriam-Webster.com dictionary. Retrieved April 8, 2022, from https://www.merriam-webster.com/dictionary/complaint
+
+Moose Photos. (2017, September 5). Man Wearing Brown Suit Jacket Mocking on White Telephone [Photograph]. Pexels. https://www.pexels.com/photo/man-wearing-brown-suit-jacket-mocking-on-white-telephone-1587014/
+
+Wendy Satin. (n.d.). What is the difference between a disagreement, complaint, dispute, and a conflict? – Wendy Satin. Wendy Satin Law. https://www.wendysatinlaw.com/faqs/what-is-the-difference-between-a-disagreement-complaint-dispute-and-a-conflict/
+Definition of complaint
+
+Supplementary Materials
+What is consumer complaint?
+
+
+== def_complaint_video.html ==
+What is consumer (customer) complaint?
+
+In this video, some definitions for the concept of consumer complaint are presented, along with its meaning.
+The Audiopedia. (2018, February 4). What is CONSUMER COMPLAINT? What does CONSUMER COMPLAINT mean? CONSUMER COMPLAINT meaning [Video]. YouTube. https://www.youtube.com/watch?v=4bpFPg8tEJE
+https://www.youtube.com/watch?v=4bpFPg8tEJE
+
+
+== def_complaint_exercises.html ==
+1. Select the only correct option
+Which of the following is the correct definition of complaint?
+An expression of dissatisfaction from someone
+When someone gives their opinion about a certain topic or product
+Sugesting improvements over negative aspects about someone's work or product
+
+Correct, "a complaint is when someone expresses their disagreement, disapproval, or disappointment." (Wendy Satin, n.d.). The second option is wrong because complaints refers to the expression of dissatisfaction from someone, the sentence above is related to feedback given from someone. The third option is incorrect because a sugestion is not a complaint sugestions do not express a dissatisfaction from someone, but reflect the their opinion about someone's product or work.
+Wrong. Try again!
+
+2. Classify each of the following quotes as either being or not being a Customer Complaint
+"I really enjoyed the product, but I think that it could be improved if an extra speaker was added"
+Is a Customer Complaint
+Is NOT a Customer Complaint
+Correct! This quote is NOT a customer complaint because the person is giving an opinion about a certain product, it can be seen as feedback for the product.
+Wrong... Try again!
+
+"I have recently bought an equipment from your brand and I have been dissatisfied with it. The buttons around it are damaged and the interface is lagging." 
+Is a Customer Complaint
+Is NOT a Customer Complaint
+Correct, in this case the person is in fact in a sentiment of dissatisfaction towards a product
+Wrong... Try again!
+
+"In my opinion you should really work harder to get better results!"
+Is a Customer Complaint
+Is NOT a Customer Complaint
+Correct! This quote is not a customer complaint because we can see that the person is giving their opinion, in fact it is a sugestion rather than a complaint.
+Wrong... Try again!
+
+3. Select the only correct option
+What is a complaint form?
+A way for clients to give their complaints regarding a product or business
+Form to give opinions about a certain product/business, often used to praise other's work
+A way for someone to request a refund about a product.
+Correct, despite also containing some feedback, complaint forms are used for clients to express the dissatisfaction about a certain product or business. The second option is wrong because complaint forms do not express someone's sugestions or feedback. Meanwhile the third option is wrong due to the fact that complaint forms express the dissatisfaction of the client about some product, but they are not made for asking for a refund.
+Wrong... Try again!
+                               
+
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning! Feel free to go back to the main page, or continue onwards to the next topic using the following buttons!
+Back to Main Page
+Next Topic - Complaints in the Business World
+
+
+== business_home.html ==
+Statistical Data about Complaints in the Business World
+In this chapter we'll be looking into the most common complaints in the business world 
+
+ Kampus Production. (2021, June 16). Woman in White Suit Discussing Stock Market Data To Her Colleagues [Photograph]. Pexels. https://www.pexels.com/photo/woman-in-white-suit-discussing-stock-market-data-to-her-colleagues-8353802/
+Complaints in the workplace
+
+Whenever human relations are involved, specially when people lack good communication skills, issues and clashes are prone to happening. And the workplace is no exception, which is why handling complaints is one the main tasks of both Human Resources departments and managers.
+
+Some of those complaints can be very specific and situational but some of them are shared by most workplace environmets and companies. Let's have a look at those.
+
+The most common complaints
+
+The Interact/Harris poll (Solomon, 2015) asked 1000 workers what were the communication issues that were preventing businesses from being more effective, and these were the results:
+
+Solomon, L. (2015, June 24). The Communication Issues That Prevent Effective Leadership [Graph]. Harvard Business Review. https://hbr.org/resources/images/article_assets/2015/06/W150521_SOLOMON_COMMUNICATIONISSUES.png
+
+Faced with these results, Solomon (2015) proposes in this article from Harvard Business Review some solutions that may help leaders improve their relationship with their employees, such as:
+
+- Letting them know what they appreciate about them and their work;
+- Thanking them for their contributions;
+- Asking for their opinion;
+- Being transparent about their future and expectations for them;
+- Giving feedback continuously;
+- Showing vulnerability;
+- Addressing everyone by their name.
+
+These simple actions can go a long way when trying to build a good environment, free of complaints. (Solomon, 2015)
+Discrimination in the workplace
+
+Even though discrimination in the workplace is illegal, the amount of complaints for it in the past decades is concerning.
+
+"From 1997 to 2018 (the last year data was available), there were 1,889,631 discrimination complaints filed with the Equal Employment Opportunity Comission (EEOC). In 2017, a majority of these complaints were categorized as retaliation (49%), race (34%), disability (32%), or sex (over 30%)." (PayChex, 2019a)
+
+The following figure illustrates the evolution of dicrimination complaints from 1997 until 2018.
+
+PayChex. (2019b, August 1). Historical Employment Discrimination Complaint Reporting from 1997 to 2018 [Graph]. https://www.paychex.com/sites/default/files/styles/large/public/image/2020-09/A06-updated.png?itok=di5gDh3X
+
+But the biggest issue regarding these complaints is how hard it has been to solve them.
+
+"Discrimination in the workplace may not be uncommon, but it can be very difficult to prove. According to the AARP, nearly 2 in 3 employees between the ages of 55 and 65 cited age as a barrier to employment. Despite the high volume of complaints surrounding ageism, just 16% of cases focused on age discrimination merited a resolution for the charging party. At most, 22% of cases focused on equal pay led to a resolution, and fewer than 16% of cases that focused on color and race experienced similar results." (PayChex, 2019a)
+
+All done? Let's do some exercises!
+
+References
+Kampus Production. (2021, June 16). Woman in White Suit Discussing Stock Market Data To Her Colleagues [Photograph]. Pexels. https://www.pexels.com/photo/woman-in-white-suit-discussing-stock-market-data-to-her-colleagues-8353802/
+PayChex. (2019, August 1). Employment and Discrimination: Exploring the Climate of Workplace Discrimination from 1997 to 2018. https://www.paychex.com/articles/human-resources/eeoc-workplace-discrimination-enforcement-and-litigation
+PayChex. (2019b, August 1). Historical Employment Discrimination Complaint Reporting from 1997 to 2018 [Graph]. https://www.paychex.com/sites/default/files/styles/large/public/image/2020-09/A06-updated.png?itok=di5gDh3X
+Solomon, L. (2015, June 24). The Communication Issues That Prevent Effective Leadership [Graph]. Harvard Business Review. https://hbr.org/resources/images/article_assets/2015/06/W150521_SOLOMON_COMMUNICATIONISSUES.png
+Solomon, L. (2015, June 24). The Top Complaints from Employees About Their Leaders. Harvard Business Review. https://hbr.org/2015/06/the-top-complaints-from-employees-about-their-leaders
+The Communication Issues That Prevent Effective Leadership. (2015, June 24). [Graph]. Https://Hbr.Org/2015/06/the-Top-Complaints-from-Employees-about-Their-Leaders. https://hbr.org/resources/images/article_assets/2015/06/W150521_SOLOMON_COMMUNICATIONISSUES-1024x426.png 
+
+
+== business_blog_1.html ==
+13 Common Human Resources Complaints (And How Companies Can Deal With Them)
+Council, F. H. R. (2022, April 14). 13 Common Human Resources Complaints (And How Companies Can Deal With Them). Forbes. https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/09/23/13-common-human-resources-complaints-and-how-companies-can-deal-with-them/?sh=101dcef45716
+https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/09/23/13-common-human-resources-complaints-and-how-companies-can-deal-with-them/?sh=101dcef45716
+
+Human resources departments see their share of problems come into their report stack. Some of them are unique in how they present themselves, but the great majority of these complaints likely falls into an easily-defined category.
+Continue reading!
+
+
+== business_blog_2.html ==
+18 Common Complaints to HR (And What You Can Do To Stop Them)
+Rowe, T. (2019, April 12). 18 Common Complaints to HR (And What You Can Do To Stop Them). Https://Www.Insightsforprofessionals.Com. https://www.insightsforprofessionals.com/hr/leadership/common-complaints-to-hr
+https://www.insightsforprofessionals.com/hr/leadership/common-complaints-to-hr
+
+HR has too much to do; given that their responsibilities include everything to do with employees — and given that businesses are made up almost entirely of employees — there usually aren't enough hours in the day for HR to handle all the necessary tasks. It might be more manageable if HR weren't trying to balance a consistent workload and a varying number of employee complaints. At most organizations, employees are encouraged to visit HR with any concerns, comments or other types of feedback — and these almost always consist of the same types of grumbles and grievances. Here is a list of the most common reasons employees pay a visit to HR, and what HR can do to reduce these complaints and get on with the job.
+Continue reading!
+
+
+== business_exercises.html ==
+Statistical Data about Complaints in the Business World - Exercises
+1. Select the correct option
+What is the most common communication issue from employers that workers complain about?
+Taking credit for their ideas
+Not knowing their names
+Not offering constructive criticism
+Not having their achievements recognized
+Correct! According to the Interact/Harris poll from 2015, people complain the most about not having their achievements recognized
+Wrong... Try again!
+
+2. Select ALL true options
+To avoid complaints and insatisfaction, employers should...
+Not give feedback to employees
+Correct! Good feedback is very important for workers to understand if they're doing things correctly and will improve their performance.
+Wrong... Try again!
+
+Make decisions by themselves
+Correct! In order to improve the work environment, employees' opinions should be taken into consideration.
+Wrong... Try again!
+
+Call everyone by their name;
+Correct! Addressing people by their name shows you care and will make people feel more welcome and recognized.
+Wrong... Try again!
+
+Hide their own mistakes from their employees.
+Correct! Showing humanity is a good way to get your employees' trust, everyone makes mistakes and showing you've overcome and grew from yours may motivate them to do the same.
+Wrong... Try again!
+
+3. Select the correct option
+What is the most common form of discrimination reported by workers?
+National origin
+Color and Race
+Equal pay
+Age
+Religion
+Correct! According to data from EEOC, people are discriminated for their color or race the most.
+Wrong... Try again!
+
+4. Select ALL true options
+It is easy to solve discrimination complaints
+Correct! It is very difficult to solve discrimination complaints and more often than not, they lead to no resolution.
+Wrong... Try again!
+
+The majority of complaints for ageism don't lead to a resolution
+Correct! According to data from EEOC, only 16% of ageism complaints led to a resolution for the chargin party.
+Wrong... Try again!
+
+Older people have a harder time finding a job
+Correct! According to data from EEOC, 2 in 3 employees over 55 have felt discriminated because of their age.
+Wrong... Try again!
+
+Only around 22% of equal pay cases led to a resolution
+Correct! Even though it seems easier to prove than other cases, only around 22% of those complaints led to a resolution.
+Wrong... Try again!
+
+
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning! Feel free to go back to the main page, or continue onwards to the next topic using the following buttons!
+Back to Main Page
+Next Topic - PWOM vs NWOM
+
+
+
+== pwom_nwom_home.html ==
+PWOM vs NWOM
+In this topic we'll be defining PWOM - Positive Word of Mouth - and NWOM - Negative Word of Mouth.
+You'll learn how to distinguish between the two and their importance and impact of the public's perception of a business, product or company!
+
+Gepp, A. (2019, March 22). Two Women Looking On Smartphone [Photograph]. Pexels. https://www.pexels.com/photo/two-women-looking-on-smartphone-2040745/
+
+What is Word of Mouth (WOM)?
+
+Word-of-mouth, in the world of marketing and consumer analysys, is the name given to the phenomena of consumers talking about a certain company, business, product or service in their day-to-day life. (Hayes, 2021)
+
+This phenomena is always triggered by the consumer's experience! Be it positive, negative, direct (i.e the consumer directly experienced what they are talking about) or indirect (i.e the consumer delegates other people's experiences which they've heard about). (Hayes, 2021)
+
+You can think of Word-of-mouth as if it were a chain. A person experiences something, and then tells other people about their experience. In turn those people may then tell others about what they have been told, generating a possibly endless marketing-chain. You can directly incentivize this type of marketing through publicity stunts and activities.
+
+Word of mouth has a host of benefits over other marketing styles. For one its "free marketing" since you're relying on people to spread the word about your product, rather than you directly advertising it yourself. Secondly, and perhaps most importantly, it comes from reliable sources - what are you more likely to trust, an ad you saw on TV, or a personal recommendation you got from a friend? (AP Portugal Tech Language Solutions, 2019)
+
+Beware, however, because word of mouth goes both ways: Positive Word of Mouth (PWOM) can make your business, but Negative Word of Mouth (NWOM) can break it!
+Positive Word Of Mouth (PWOM)
+
+"Positive WOM is to provide information for consumers which highlights the strengths of a product or service and encourages consumers to adopt a product or service."
+(Wang, 2014) 
+
+Positive Word of Mouth (PWOM) is the type of Word of Mouth that is generated when customers have positive experiences with the product/service. Products with more PWOM will inevitibly sell more and be more attractive to customers.
+
+Generating Positive Word of Mouth is something all business should seek to accomplish. Studies have shown that a majority of consumers (over 70%) make their purchasing decisions due to positive word of mouth. Furthermore, most consumers (~90%) tend to believe and prefer word of mouth recommendations over other forms of marketing. (Weber, 2022)
+
+Nielsen Holdings. (2012, November 4). Nielsen in Global Trust and Advertising Survey Q3 2011 [Graph]. Consumer Trust in Online, Social and Mobile Advertising Grows. https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/trust-in-advertising.png?resize=570%2C486
+
+Positive Word of Mouth can range from full-on recommendations given to friends, family, or to followers on social media, to small comments unpromtedly brought upon during day-to-day conversations. While, in nature, PWOM is generated from the customer's positive experiences with the product, rather than your own advertising campaign, there are ways you can foment PWOM.
+
+First and foremost, if you want PWOM, you'll have to offer a product/service that costumers actually like - selling quality products, offering great customer support and keeping your customers happy will keep them talking about your product for longer, and will undoubtedly make them wanna share your product with the world. Offering free samples and allowing people to easily try out your product can also help in this aspect. You also need to be mindful of treating dissatisfied customers. Listen to their complaints and show them that you've improved on the areas they've criticized in order to turn your critiques into your supporters! (Weber, 2022)
+
+All in all, the baseline idea for PWOM is: Keep your customers happy, and they'll repay you the favor by becoming your frontline brigade of publicity. In the end, the product/service/brand with the most PWOM wins!
+Negative Word Of Mouth (NWOM)
+
+Negative Word of Mouth (NWOM) is the polar opposite of Positive Word of Mouth. Whilst PWOM stems from a customers positive experiences, NWOM is a consumer's direct response to negative experiences.
+
+Whenver a client personally experiences dissatisfaction, they're natural reaction is to complain about it. Be it to vent their frustrations, or to warn their friends to stay away from whatever product caused their disdain. This is NWOM.
+
+It should also be noted that, since NWOM comes from personal experiences, whether the consumer's complaint is valid or not doesn't matter. As long as the costumer believes their concern to be true, they'll badmouth the product. Furthermore we can subdivide NWOM into Random and Systematic NWOM. (Richins, 1984)
+
+Random NWOM typically occurs when a momentary lapse of quality causes a particular client to have a poor experience. Due to a lack of pattern and the sporradic nature of this type of NWOM, it tends to be easily offset by PWOM (although you should obviously avoid it nontheless). (Richins, 1984)
+
+Systematic NWOM is more concerning. This happens when a large number of consumers voice similar complaints. This type of NWOM tends to easily gain a lot of traction and, unless addressed, might snowball until the public's perception of the company, service or product, is entirely negative, completely eclipsing all possible PWOM. (Richins, 1984)
+
+To summarize, you should avoid NWOM at all times, by making sure client's complaints are addressed and that public's perception is more positive than negative at all times.
+All done? Let's do some exercises!
+References
+
+AP Portugal Tech Language Solutions. (2019). “Word of Mouth”? Sim, o marketing de referência conquista clientes. APPortugal. https://blog.apportugal.com/pt/word-of-mouth-saiba-como-o-marketing-de-referencia-conquista-clientes
+
+Gepp, A. (2019, March 22). Two Women Looking On Smartphone [Photograph]. Pexels. https://www.pexels.com/photo/two-women-looking-on-smartphone-2040745/
+
+Hayes, A. (2021, March 29). What Is Word-of-Mouth Marketing? Investopedia. Retrieved April 20, 2022, from https://www.investopedia.com/terms/w/word-of-mouth-marketing.asp
+
+Nielsen Holdings. (2012, November 4). Nielsen in Global Trust and Advertising Survey Q3 2011 [Graph]. Consumer Trust in Online, Social and Mobile Advertising Grows. https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/trust-in-advertising.png?resize=570%2C486
+
+Richins, M. L. (1984). >Word of Mouth Communication As Negative Information | ACR. ACRwebsite. https://www.acrwebsite.org/volumes/6334/volumes/v11/NA-11
+
+Wang, J. (2014). Encyclopedia of Business Analytics and Optimization. IGI Global.
+
+Weber, I. (2022, March 17). 9 Ways to Create Positive Word of Mouth Advertising. Mention. https://mention.com/en/blog/9-ways-to-create-positive-word-of-mouth-advertising/ 
+
+
+== pwom_nwom_blog_1.html ==
+9 Ways to Create Positive Word of Mouth Advertising
+Weber, I. (2022, March 17). 9 Ways to Create Positive Word of Mouth Advertising. Mention. https://mention.com/en/blog/9-ways-to-create-positive-word-of-mouth-advertising/
+https://mention.com/en/blog/9-ways-to-create-positive-word-of-mouth-advertising/
+
+"No matter what business you have, whether it is an online business or a brick-and-mortar business, you can’t last long in the market without some word-of-mouth advertising.
+Why? Because it’s more believable when a suggestion to buy or try something comes from an individual.
+Word of Mouth Advertising is like a personal recommendation. People tend to listen more when someone tells them. For instance, you are most likely to get a piece of pizza from where a colleague or friend suggests, rather than from an ad on a billboard or TV commercial."
+Continue Reading!
+
+== pwom_nwom_blog_2.html ==
+Marsha L. Richins (1984) ,"Word of Mouth Communication As Negative Information", in NA - Advances in Consumer Research Volume 11, eds. Thomas C. Kinnear, Provo, UT : Association for Consumer Research, Pages: 697-702.
+https://www.acrwebsite.org/volumes/6334/volumes/v11/NA-11
+
+"Negative word-of-mouth (NWOM) is a consumer response to dissatisfaction. This paper reviews existing literature on NWOM and related topics, especially examining the circumstances under which it occurs and the factors which influence the impact of this form of communication on recipients."
+Continue Reading!
+
+
+== pwom_nwom_paper_1.html ==
+How Damaging is Negative Word of Mouth?
+Charlett, D., Garland, R., & Marr, N. (1995). How damaging is negative word of mouth. Marketing Bulletin, 6(1), 42-50.
+http://marketing-bulletin.massey.ac.nz/V6/MB_V6_N1_Charlett.pdf 
+
+== pwom_nwom_video_1.html ==
+How word of mouth really works | Chris Cowan | TEDxLondonBusinessSchool
+
+"A far cry from the overused buzzwords they have become, Chris promotes "segmentation" and "advocacy" as ideas that must be delivered with simplicity in order to positively impact the way a business goes to market. He takes us back to one of the purest ways of delivering ideas, word of mouth, and explains how it really works.
+Chris Cowan once followed the typical path of a successful marketeer: Unilever, Duracell Batteries, Disney. He then decided to start over and set up Clusters, a market research agency, which was built on his passionate belief that evidence-based targeting is a prerequisite for great marketing."
+How word of mouth really works | Chris Cowan | TEDxLondonBusinessSchool. (2016, May 31). [Video]. YouTube. https://www.youtube.com/watch?v=Z_EERL2hSrg
+https://www.youtube.com/watch?v=Z_EERL2hSrg
+
+
+== pwom_nwom_video_2.html ==
+Why Word-of-Mouth is the Best Marketing Promotion (Advertising / Communication) #MarketingMinute 105
+
+"Of all the ways to promote your product, brand, or organization, the most effective is customer-to-customer word of mouth.
+Advertising, personal communication, and social media are all great ways to get information to your various audiences, but they’re the word of the marketer, and that word isn’t always trusted because there’s an inherent conflict of interest. Do the marketers really want to solve my problems? …or do they just want to take my money?
+So why does word-of-mouth work so well? There are three reasons: First, people perceive other customers, even when they’re complete strangers, to be more trustworthy than the marketed brand.
+Second, other customers are perceived as being more knowledgeable about the product and its strengths and weaknesses from the buyer side; they truly know if and when it works well, and when it doesn’t.
+Finally, word-of-mouth is better for your organization because now your prospects come to you more informed and more convinced that you can fulfill their needs. They’ve been, in a sense, vetted or screened via deeper conversations with former customers that resulted in their desire to seek you out.
+But there’s something you need to do on your side: To ensure that customer-to-customer word-of-mouth is positive, you need to create excellent customer experiences, ensure that those experiences are recognized by your customers, and then empower them (through training and communication tools) to share their experiences with others."
+Why Word-of-Mouth is the Best Marketing Promotion (Advertising / Communication) #MarketingMinute 105. (2018, May 7). [Video]. YouTube. https://www.youtube.com/watch?v=u_579xrpONI
+https://www.youtube.com/watch?v=u_579xrpONI
+
+
+== pwom_nwom_video_3.html ==
+The Strength Of Electronic Word-Of-Mouth explained
+
+"Electronic word-of-mouth is becoming more imporant in a world where everyone is constantly connected. Volume and valence of electronic word-of-mouth messages have a big impact on sales. Both these factors have an higher impact on specialized review platforms rather than on the product page of an online retailer."
+The Strength Of Electronic Word-Of-Mouth explained. (2016, February 6). [Video]. YouTube. https://www.youtube.com/watch?v=R5RCgAm_oG8
+https://www.youtube.com/watch?v=R5RCgAm_oG8
+
+
+== pwom_nwom_exercises.html ==
+PWOM vs NWOM - Exercises
+
+1. Select the correct option
+What is Word Of Mouth?
+Any conversation between two or more people
+When someone tells other people about their experiences with a product or service
+A synonym for gossip
+When someone badmouths a product or service
+An advertising campaign
+
+Correct! Word if mouth is when people, in their day-to-day lives, tell others about their experiences and opinions about a product, service, company and so on.  Badmouthing a product may be seen as NWOM, a specific type of WOM.  Whilst WOM does generate free marketing, it is not an active advertising campaign since companies are not directly sponsoring costumers to spread the word about their product.
+Wrong... Try again!
+
+2. Select ALL true options
+Word of Mouth is generated from the costumer's experience with the product/service
+Correct! Word of Mouth, be it positive or negative, always stems from the consumer's personal experience
+Wrong... Try again!
+ 
+Most people tend to prefer ads over personal recommendations from friends
+Correct! Several studies have shown that costumers tend to more avidly listen to recommendations from friends and family rather than traditional advertisements
+Wrong... Try again!
+
+All Word Of Mouth is benefitial for a business.
+Correct! WOM can be Positive or Negative. PWOM brings a ton of benefits to a product, but NWOM can soil a brand's name and greatly reduce its business
+Wrong... Try again!
+
+There are no ways for business to instigate Positive Word Of Mouth
+Correct! There are multiple ways for a business to generate PWOM. The easiest is to ensure costumers are happy to the point that they'll recommend the product to other people
+Wrong... Try again!
+
+Negative Word of Mouth happens when a lot of clients voice and share similar complaints
+Correct! Not necessarily. NWOM can be Systematic (i.e a lot of people voice the same complaints), or random (i.e a sudden lapse of service causes a single/small amount of customers to have a bad experience with the product)
+Wrong... Try again!
+
+
+
+3. Select the ONLY true option in each group
+To help generate PWOM you can...
+Give out free samples and paying costumers to talk about your product
+Attempt to remove any critiques posted online about your product so that no one sees them
+Offer a good product and heavily advertise your product to raise exposure
+Address costumer complaints, offer a good product and make it easy for people to try out the product
+
+Correct! There are multiple ways to generate PWOM, but none involve directly paying the costumer to talk about your product, removing/attempting to hide valid critiques or directly advertising your product
+Wrong... Try again!
+
+NWOM...
+... always offsets PWOM
+... is generated when a client personally experiences dissatisfaction
+... is always specific to a single client's experience and never adhere to a specific pattern
+... cannot be minimized or solved
+Correct! The common thing about any type of NWOM is that it always occurs when a customer has a bad experience with a product/service to the point where they want to warn others against it. </br> A product can have more NWOM than PWOM (at which point the brand's reputation is called into question). </br> NWOM can be Random or Systematic. </br> By addressing costumer complaints and genuinely improving the product you can start generating PWOM to offset and reduce NWOM.
+Wrong... Try again!
+
+4. Classify each of the following sentences as PWOM or NWOM
+"You should totally try out this game! It's super fun and I'm sure you'll like it friend!"
+PWOM
+NWOM
+Correct! In this example we have someone full-heartedly recommending a game they enjoyed to a friend.
+Wrong... Try again!
+
+"Last night I went to this restaurant and had to wait 2 hours for my food! And it wasn't even that tasty!" 
+PWOM
+NWOM
+Correct! In this example, the person is telling someone about a bad experience they had recently
+Wrong... Try again!
+
+"Be careful about that website. I ordered something from there and it never showed up. They eventually refunded my money, but their costumer service was dreadful. I had to wait weeks for each e-mail reply!" 
+PWOM
+NWOM
+Correct! In this example the person is telling someone a story about a problem that happened to them related to a service so as to warn the listener.
+Wrong... Try again!
+
+Last time I came here they brought me food I didn't order. They were very apologetic, however, and quickly corrected this mistake. At the end they even threw in a small discount as an apologee!"
+PWOM
+NWOM
+Correct! Even though the person starts the story with a bad experience caused by a mistake, they swiftly switch the tone to positivity by explaining how the business handled and solved the sittuation.
+Wrong... Try again!
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning! Feel free to go back to the main page, or continue onwards to the next topic using the following buttons!
+Back to Main Page
+Next Topic - Phases of Handling Complaints
+
+
+== phases_home.html ==
+
+Phases of handling complaints.
+
+In this chapter we'll explore the fundamentals of complaint management as well as learn the benefits of its implementation.
+
+Alex Green. (2020, October 27). Crop ethnic female consultant talking to client and taking notes [Photograph]. Pexels. https://images.pexels.com/photos/5699482/pexels-photo-5699482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+What is complaint management?
+
+    The term complaint management describes the handling of customer complaints within a company. Criticism is supposed to be evaluated in a way that is systematic and orderly, and used to create a positive impact. It is also supposed to resolve the issue that prompted the customer’s criticism. The goal of complaint management is to strengthen customer loyalty as well as quality assurance.
+
+
+    Ionos. (2019a, May 21). Complaint management. IONOS Startupguide. https://www.ionos.com/startupguide/grow-your-business/complaint-management/ 
+
+What are the objectives of complaint management?
+
+While the objectives of complaint management can vary from business to business, the basis of the complaint management process is conducive to achieving two goals: (Ionos, 2019a)
+
+• Customer satisfaction: Complaint management is supposed to reduce customer dissatisfaction and ideally even strengthen customer loyalty.
+
+• Quality assurance: Through complaint management, customer feedback reaches the right departments and contributes to the improvement of the product or service.
+
+Complaint Management procedures
+
+For the complaint management task to be successfull, a framework has to be implemented. This framework needs a organizational structure, apropriatelly trained personnel and a functioning infrastructure. Once these requirements are met, the complaint management process can begin.
+
+In the complaint management process, a complaint passes through various stations. So that the customer can submit a complaint in the first place, your company should set up simple options for providing feedback. Companies should always explicitly indicate such options. In this way, customers are encouraged to give feedback. After the complaint is done, the complaint management process splits into Direct and Indirect processes. (Ionos, 2019a)
+
+Ionos. (2019b, May 21). Complaint management procedures can be divided into two groups: direct and indirect procedures. [Graph]. Ionos. https://www.ionos.com/startupguide/fileadmin/StartupGuide/Screenshots_2019/beschwerdemanagement-EN-1.png
+Direct complaint management process
+
+Firstly, the complaint is processed. Here, friendliness and understanding on the part of the trained employee play a major role. Ensure that your customers also learn what actions will be taken after their criticism. When possible, the customer should be able to understand what sort of consequences their criticism will have. Sometimes, however, ongoing communication regarding a specific matter is not economically feasible. For this reason, business professionals must weigh what type of response still makes sense at that point and what would exceed a reasonable response.
+
+The next step is to handle the customer’s complaint. This also includes forwarding it to the appropriate department. Knowing that their feedback was accepted with appreciation and will lead to a change is already enough for many customers. Others, however, require further action to be satisfied. For this, your support employees must have the appropriate resources available. In this step the employee thus responds directly to the customer and offers a discount, product exchange, repairs or some other perk.
+(Ionos, 2019a)
+Indirect complaint management process
+
+At the same time as the direct complaint management is happening, the internal tasks begin. The inbound complaint is analyzed and categorized, and in this way delivers information on what must be changed within the company. Both the auditing and reporting tasks then follow, i.e. the complaint management process itself is reviewed. At the same time, efficiency is also assessed: Is customer satisfaction adequately represented by the inbound complaint? In this context, one solution may be to encourage complaint stimulation.
+
+The information from the audit is prepared and presented to company executives or other decision-makers. Next, this branch of complaint management also deals with execution. The collected and prepared data must be made use of in order to improve quality management. This could be details that only concern a small production stage and can be expeditiously implemented. In the long-term, however, it is possible to initiate structural changes that have an impact on the entire company.
+(Ionos, 2019a)
+
+Qualtrax. (2021, September 24). Strategies for Complaint Management [Graph]. Youtube. https://youtu.be/r_JlvJTpRjc?t=1155
+So, in conclusion...
+
+There are many ways to handle complaint management in a business. What we presented was one possible method of handling it. But while the process may vary between businesses or even industries, one thing is certain. The fundamental objective of complaint management should stay the same, to help you improve your business.
+All done? Let's do some exercises!
+References
+
+Alex Green. (2020, October 27). Crop ethnic female consultant talking to client and taking notes [Photograph]. Pexels. https://images.pexels.com/photos/5699482/pexels-photo-5699482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+Ionos. (2019a, May 21). Complaint management. IONOS Startupguide. https://www.ionos.com/startupguide/grow-your-business/complaint-management/
+
+Ionos. (2019b, May 21). Complaint management procedures can be divided into two groups: direct and indirect procedures. [Graph]. Ionos. https://www.ionos.com/startupguide/fileadmin/StartupGuide/Screenshots_2019/beschwerdemanagement-EN-1.png
+
+Qualtrax. (2021, September 24). Strategies for Complaint Management [Graph]. Youtube. https://youtu.be/r_JlvJTpRjc?t=1155
+
+
+== phases_blog_1.html ==
+ Green, A. (2020). Crop unrecognizable black man sharing complains with female psychologist [Photograph]. Pexels. https://images.pexels.com/photos/5699466/pexels-photo-5699466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Startup guide to Complaint Management
+Ionos. (2019a, May 21). Complaint management. IONOS Startupguide. https://www.ionos.com/startupguide/grow-your-business/complaint-management/
+https://www.ionos.com/startupguide/grow-your-business/complaint-management/
+
+"Even in the best companies, not everything runs smoothly all the time: Ultimately, it is very difficult to anticipate the wishes and needs of every single customer. Mistakes can happen – yet the fact that paying customers are not happy with it is something that probably every business professional can understand.
+
+This is why it is so important to establish a functioning complaint management process. One that ensures a good rapport with the client even after a mistake has been made and that keeps them from turning away from your company in anger."
+Continue Reading!
+
+== phases_blog_2.html ==
+ Andrea Piacquadio (2020). Crop businessman giving contract to woman to sign [Photograph]. Pexels. https://www.pexels.com/photo/crop-businessman-giving-contract-to-woman-to-sign-3760067/
+10 steps for successful direct complaint management
+Salemme, I. W. (2020, October 2). Effective Complaint Management: 10 Steps to Customer Success. Pipefy. https://www.pipefy.com/blog/effective-complaint-management/
+https://www.pipefy.com/blog/effective-complaint-management/
+
+A very important part of complaint management is the direct handling of the complaint with the costumer. The following blog goes over 10 important steps to consider when handling this portion of complaint management.
+Continue Reading!
+
+== phases_video_1.html ==
+Understanding Complaint Management
+
+The following webinar goes over some of the fundamentals of complaint management.
+Qualtrax. (2021, September 24). Understanding Complaint Management [Video]. YouTube. https://www.youtube.com/watch?v=r_JlvJTpRjc
+https://youtu.be/r_JlvJTpRjc
+
+== phases_video_2.html ==
+How to handle customer complaints like a Pro
+
+This Valuetainment videos gives important insight into examples of customer complaint handling.
+Valuetainment (2017, April 11). How to Handle Customer Complaints Like a Pro [Video]. YouTube. https://www.youtube.com/watch?v=kx7-S9jvVXM&feature=youtu.be
+https://youtu.be/kx7-S9jvVXM
+
+== phases_paper_1.html ==
+
+A Customer Satisfaction Learning Process
+
+"Complaints should be considered an indicator of organizational performance assessment, signalling problems or failures in internal processes that need quick recovery in order to avoid migration of profitable customers. Organizations must learn that the consequences of loosing customers are both profit decrease and negative word of mouth. The aim of the present study is to highlight the key features of an effective complaint management process, as a less expensive system of diagnosing and learning a company's weaknesses. Results focus on customer complaining behaviour and subsequently on the development and implementation of the service recovery strategy."
+Filip, A. (2013). Complaint management: A customer satisfaction learning process. Procedia-Social and Behavioral Sciences, 93, 271-275.
+https://www.sciencedirect.com/science/article/pii/S1877042813032916?via%3Dihub
+
+
+== phases_exercises.html ==
+Phases of handling complaints - Exercises
+1. Select the correct option
+What is the definition of Complaint Management?
+Being open to customer criticism.
+The handling of customer complaints within a company.
+Managing a complaining customer.
+The handling of complaints from within a company.
+Correct! While complaint management has many other factors and can be done in many different ways, it's basis remains the same across them all.
+Wrong... Try again!
+
+2. The objectives of complaint management are:
+Reduce customer dissatisfaction and ideally even strengthen customer loyalty.
+Correct! Customer satisfaction is at the core of complaint management
+Wrong... Try again!
+
+Give a platform for customers to vent their dissatisfaction.
+Correct! While complaint management allows for this to happen, it's objective is not this.
+Wrong... Try again!
+
+Contribute to the improvement of the product or service.
+Correct! Quality assurance is a big objective of complaint management.
+Wrong... Try again!
+
+Give customers power over the product or service.
+Correct! Complaint management's objective is to implement customers complaints into the improvement of the product or service.
+Wrong... Try again!
+
+3. Classify the following into their complaint management category.
+Set up of action timeframe
+Categorization of complaints
+Identification of a complaint owner
+Definition of actions to be taken
+Correct! Once a complaint happens it is important to define specific actions to be taken. Setting up an action timeframe is an important step in this category
+Wrong... Try again!
+
+Verification of previous occurrences. 
+Categorization of complaints
+Identification of a complaint owner
+Definition of actions to be taken
+Correct! The categorization of complaints makes it easier to identify previous occurrences of the same issue.
+Wrong... Try again!
+
+Investigation of complaint.
+Categorization of complaints
+Identification of a complaint owner
+Definition of actions to be taken
+Correct! The person that is assigned a complaint is it's owner, and this person is responsible for investigating the complaint.
+Wrong... Try again!
+
+4. Place the following steps of indirect complaint managent in order.
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct! As soon as a complaint occurs, a organization needs to initiate the complaint handling process.
+Wrong... Try again!
+
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct! After reacting, an organization gathers and verifies all the necessary information to validate the complaint.
+Wrong... Try again!
+
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct!. After the evaluation step, once a cause is determined, it is time to implement any needed action.
+Wrong... Try again!
+
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct! After an organization acts on a complaint, it is important to review it's effectiveness to ensure the cause was truly eliminated.
+Wrong... Try again!
+
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct! After the review process, an organization makes sure that the management system is updated with the changes applied.
+Wrong... Try again!
+
+Evaluate the need for action to eliminate the cause.
+Review of effectiveness of any corrective action taken
+React to the nonconformity
+Implement any action needed
+Make changes to the management system
+Update risks and opportunities
+Correct! Finally, an organization provides any necessary training to personel involved in the processes related to the corrective actions.
+Wrong... Try again!
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning! Feel free to go back to the main page, or continue onwards to the next topic using the following buttons!
+Back to Main Page
+Next Topic - Alternative Thinking
+
+
+== alt_thinking_home.html ==
+
+Alternative Thinking
+
+In this chapter we'll be defining alternative thinking, and telling you why it matters and how it can help in conflict resolution!
+
+Fauxels. (2019, October 22). Women Standing beside Corkboard [Photograph]. Pexels. https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?cs=srgb&dl=pexels-fauxels-3184296.jpg&fm=jpg
+What is Alternative Thinking?
+
+Alternative Thinking basically boils down to looking at a given issue through different perspectives. It involves putting aside your personal views, feelings and emotions in order to perceive the circumstances through different positions, other than your own. (ExploringYourMind, 2021)
+
+    Alternative thinking is another way to rethink or redirect your thoughts through a given situation that is more beneficial than thinking negatively or emotionally going through a hypothetical situation.
+
+
+    (Fenceroy, 2011, Page 7) 
+
+Alternative thinking involves stepping away from a situation and taking a look at the bigger picture, devoid of negativity, in order to broaden your overall perception of the issue. Here is an example scenario that highlights how to apply alternative thinking:
+
+    A woman is on her way to work and her car stops on the freeway. Here are two ways she can think about the situation. (...)
+
+    Her first instinct or thought could be, "Oh! I am going to be late for work, and my boss will not like that."
+    Alternative thinking: "Thank God I was able to pull over out of the traffic before someone could hit me."
+
+    "Now, I have to pay someone to tow my car."
+    Alternative thinking: "I am so fortunate to have towing service with my automobile insurance. I just hope I paid my premium. If not, today is my brother's off day and he has a big truck so he will help me."
+
+    "Just because I am a female, the mechanic is going to take advantage of me, and I am going to pay more, perhaps for something that I do not even need repairing at this time."
+    Alternative thinking: "You know if something has really gone wrong with my car, I want to know. Getting it repaired could save my life."
+    Alternative thinking: "Considering all that has happened, it is cheaper to get my car repaired than buying a new one and having to make monthly payments."
+
+
+    (Fenceroy, 2011, Page 8) 
+
+How can Alternative Thinking help in Conflict Resolution?
+
+Alternative Thinking provides a plethora of benefits to conflict resolution.
+
+For one, by thinking about the problem through an emotionally-deprived lens you'll find it easier to remain calm. You'll be able to reduce any emotional stress that may span from a naturally stressful event.
+
+Secondly, its easy in conflicts to stand your ground on solutions or opinions you formulated due to your own bias or emotions. This is not productive to conflict resolution as it prevents you from cooperating with others to reach a common solution. It makes you tunnel vision on what you think is right, completely disregarding valid concerns or points others may be raising. Alternative Thinking allows you to consider different perspectives, other than the one you may be inclined towards. In doing so, you'll more easily reach a consensus towards a common resolution, almost certainly better than the one you would have reached were you to stick to your own views of the issue. Remember that: "Life is NOT a zero-sum game, neither is conflict resolution". (Sowunmi, 2018)
+
+Through Alternative Thinking you'll be able to generate more solutions to a conflict, rather than the first that comes to your mind. You'll be able to move away from pessimism and towards positivism. You'll find it easier to cooperate with others to solve issues, by considering views devoid of your own personal beliefes and opinions. You'll be able to broaden your horizons. And you'll be able to reduce the overall anxiety and stress that arises from conflicts and naturally stressful sittuations! Lots of benefits all around!
+How to promote Alternative Thinking
+
+Whether you want to bring alternative thinking to your workplace, to a school lecture or even to a discussion between your group of friends, there are some techniques that have shown a lot of success and that will help you generate different, more creative and sometimes better solutions. Let’s go through some examples:
+Visualize the conflict from afar
+
+A common thing most of are told whenever we must deal with a conflict with someone else is to put ourselves in their position and think about how we would feel if we were them. That leads us to empathize and think about the problem in a way we wouldn’t if we only considered our point of view.
+
+And that mindset can be applied in problem solving in other areas. By putting ourselves as an outside viewer and trying to visualize the problem from afar, we may be able to put aside some biases we may have, maybe even let go of some emotions that may get in the way and think of the problem in a way we hadn’t thought before, usually more positive.
+Brainstorming
+
+This one you have probably heard of already; brainstorming consists of gathering in a group and giving ideas spontaneously and without any inhibition to help solve a problem. It focuses on quantity over quality so you will end up with several bad ideas but that is fine because odds are some great ones will probably show up too.
+Mood boards
+
+    A mood board is a type of visual presentation or ‘collage’ consisting of images, text, and samples of objects in a composition.
+
+
+    (Wikipedia, 2022) 
+
+This is usually used by designers and other jobs that require a visualization of the problem, it is useful not only to show other people what you are thinking of but also to help you look at your thoughts from a different perspective.
+Short and Long-term solutions
+
+Because not every idea you may find will be a perfect solution for the problem, it may drag on longer than expected. And that requires you to have alternatives and plans for different scenarios. So why not plan for those beforehand? It will make your life easier and less stressful when those scenarios come up.
+All done? Let's do some exercises!
+References
+
+ExploringYourMind. (2021, July 10). The Characteristics of Alternative Thinking. Exploring Your Mind. https://exploringyourmind.com/the-characteristics-of-alternative-thinking/
+
+Fauxels. (2019, October 22). Women Standing beside Corkboard [Photograph]. Pexels. https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?cs=srgb&dl=pexels-fauxels-3184296.jpg&fm=jpg
+
+Fenceroy, E. (2011). Minimizing Conflict through Restorative Conferencing. Amsterdam University Press.
+
+Mood board. (2022, February 17). In Wikipedia. https://en.wikipedia.org/wiki/Mood_board
+
+Sowunmi, D. G., II. (2018, March 8). Beyond Yes vs No – Alternative Thinking for Conflict Resolution. LinkedIn. https://www.linkedin.com/pulse/beyond-yes-vs-alternative-thinking-conflict-dayo-sowunmi-ii/
+
+
+== alt_thinking_blog_1.html ==
+Beyond Yes vs No – Alternative Thinking for Conflict Resolution
+Sowunmi, D. G., II. (2018, March 8). Beyond Yes vs No – Alternative Thinking for Conflict Resolution. LinkedIn. https://www.linkedin.com/pulse/beyond-yes-vs-alternative-thinking-conflict-dayo-sowunmi-ii/
+https://www.linkedin.com/pulse/beyond-yes-vs-alternative-thinking-conflict-dayo-sowunmi-ii/
+
+Yesterday’s YES vote by a large majority of Australians (including myself) to legalise same-sex marriage reminds me of a book by Edward de Bono titled “I Am Right, You Are Wrong.” De Bono (the inventor of lateral thinking) intentionally chose such a provocative title to remind us that life is NOT a zero-sum game. In essence, it is destructive and exhausting to think in terms of polar opposite viewpoints only. In life, we can all be winners by adopting clearer perception, constructive thinking and more open-minded creativity. In the book, de Bono says “our habits of conflict are as primitive as ever, even though the weapons we use have benefited from our technical excellence.” For example, social media played a large part in propagating the ‘illusion’ of mutual exclusiveness between the Yes and No supporters, with the effect of harsh polarisation between both camps.
+Continue Reading!
+
+== alt_thinking_blog_2.html ==
+The Characteristics of Alternative Thinking
+ExploringYourMind. (2021, July 10). The Characteristics of Alternative Thinking. Exploring Your Mind. https://exploringyourmind.com/the-characteristics-of-alternative-thinking/
+https://exploringyourmind.com/the-characteristics-of-alternative-thinking/
+
+"Alternative thinking allows you to look for new ways to solve problems. It makes the mind more flexible and open to new ideas. It mostly relies on imagination. Now, what else is there to know about it?"
+Continue Reading!
+
+== alt_thinking_vid_1.html ==
+Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma
+
+"Corazza is a full-time professor at the Alma Mater Studiorum at the University of Bologna, a member of the Executive Council, and the founder of the Marconi Institute of Creativity. He teaches science and the applications of creative thinking. Why/Which/How/Where/What/When/Experiment. A quick jump out of the box is more insight ful than a lifetime of standard thinking."
+Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma. (2014, March 11). [Video]. YouTube. https://www.youtube.com/watch?v=bEusrD8g-dM&t=1s
+https://www.youtube.com/watch?v=bEusrD8g-dM&t=1s
+
+== alt_thinking_vid_2.html ==
+Alternative Thinking
+
+"Alternative Thinking - Your ability to use the alternative side of your thinking spectrum"
+Alternative Thinking. (2020, June 17). [Video]. YouTube. https://www.youtube.com/watch?v=2Miy5A8zLjY
+https://www.youtube.com/watch?v=2Miy5A8zLjY
+
+
+== alt_thinking_exercises.html ==
+Alternative Thinking - Exercises
+1. Select ALL true options
+Alternative Thinking involves taking into account your own personal views and opinions
+Correct! In Alternative Thinking we set aside our own personal views and opinions so as to think about a given issue through a different perspective
+Wrong... Try again!
+
+Alternative Thinking is all about coming up to a solution to a problem and sticking to it no matter what
+Correct! Alternative Thinking is the opposite of this. We want to think of as many solutions and to tackle the problem from as many perspectives as possible in order to broaden our own views of the issue and come up with a better solution.
+Wrong... Try again!
+
+Alternative Thinking can help reduce the stress of dealing with conflicts
+Correct! By tackling the problem through an emotionally-deprived lens we can remain calm and reduce the emotionally stress that these issues and conflicts tend to generate.
+Wrong... Try again!
+
+One thing we can do to Think Alternatively is to look at the problem through someone else's perspective
+Correct! Considering as many perspectives and different views as possible, other than our own, is crucial to Alternative Thinking
+Wrong... Try again!
+
+2. Select the correct option
+What is Alternative Thinking?
+
+Creating several different tiny variations on the first solution to a conflict you came up with
+Listening to what others have to say in regards to an issue, but still pushing for your own solution
+Tackling a conflict through many different perspectives by considering not only your own personal views
+Being optimistic, all the time
+Correct! Alternative Thinking is all about tackling a conflict or issue through many different perspectives, devoid of your own emotions and personal views. Its about detaching yourself from the issue and trying to tackle it through other people's perspectives in order to gain as much insight as possible and to come up with different, possibly better solutions, rather than always sticking to what first comes to mind.
+Wrong... Try again!
+
+3. Convert the following thoughts into Alternative Thinking
+
+"I've been applying for a job now that I finished my degree but haven't had much luck.. all these companies pay so badly..."
+"Maybe I should just compromise with the fact that I'll never be payed as much as I want."
+"Well, at least there ARE companies that do wanna hire me. And even if they pay badly at least they'll be providing me with experience which I can then use to apply to other companies!"
+
+Correct! In this thought we're loking at the situation through a more positive point of view. We're not focusing on the negatives or our emotion of hopelessnes/defeat. 
+Wrong... Try again!
+
+"My car broke down... I'm stuck here and now I'm going to have to pay someone to come pick me up ..."
+"Ok, I've got insurance so that'll help me pay to fix my car. Plus today's my wife's day off, I can just call her to come pick me up and the towing service can take the car!"
+"This is awful, I can't afford to fix my car right now, why do only bad things happen to me!?"
+
+Correct! Instead of panicking and letting emotions take hold of us, we're instead coming up with a solution by thinking calmly of the issue as if we weren't the ones afflicted. It's as if we're thinking of what someone else would say to us if they found us panicking about this sittuation!
+Wrong... Try again!
+
+"I got so many project deliveries next week I have no idea how I'm going to make it through..."
+"I could just give up on one project or another and try again next year I guess. Its not like I was going to get a good grade anyways."
+"Well, its not the first time I've gone through this. If I just organize my schedule I'm sure I'll pull through. Plus even if the grade isn't what I want, there's always the appeal period."
+
+Correct! Once again we're thinking about this calmly, rather than immediately giving up. We're pausing and thinking about possible, feasible, solutions, devoid of emotions or negativity.
+Wrong... Try again!
+
+4. Select ALL true options
+Brainstorming is a technique that only helps your brain in problems that require visualization
+Correct! Brainstorming will help you in a wide variety of problem types, and doesn't usually involve a lot of visualization because it is supposed to be fast.
+Wrong... Try again!
+
+Mood boards are used to show how the participants in the discussion are feeling
+Correct! Mood boards aren't about feelings, they're useful to help other people visualize your concepts and ideas for a problem
+Wrong... Try again!
+
+You should plan for different lifespans of your problem beforehand
+Correct! As people usually say: 'better to be safe than sorry'
+Wrong... Try again!
+
+Looking at problems from an outside perspective leads to new ideas
+Correct! Looking at a problem from afar is a valuable technique both to think of new solutions and to analyze the ones you already came up with
+Wrong... Try again!
+
+5. Select the ONLY correct option
+Which of the following is not an alternative thinking technique?
+
+Thinking of short-/medium-/long-term solutions
+Following only your first insticts
+Brainstorming
+Putting yourself on someone else's shoes
+
+Correct! By only following your first instincts you're leaving behind a lot of alternative ideas that could prove better than that one and you're not even considering your first instincts might be misleading. All the other techniques should generally provide better results.
+Wrong... Try again!
+
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning! Feel free to go back to the main page, or continue onwards to the next topic using the following buttons!
+Back to Main Page
+Next Topic - Conflict Management & Cultures
+
+
+== cultural_differences_home.html ==
+
+Conflict Management across Different Cultures
+
+In this topic we show that different cultures have different ways of dealing with conflicts.
+
+fauxels. (2019, November 5). Photo Of People Leaning On Wooden Table [Photograph]. Pexels. https://www.pexels.com/photo/photo-of-people-leaning-on-wooden-table-3184325/
+Conflict Management across Different Cultures
+
+“In today’s globalized business environment, diverse beliefs, behaviors, and viewpoints are more prevalent than ever before. It’s clear that good conflict-resolution practices are key to transforming disagreements into healthy creative friction, but we all know that settling disputes is rarely easy. Cultural diversity further complicates matters. It can even end up causing more conflict, since different cultures often have different approaches to conflict-resolution. While you shouldn’t want a conflict-free workplace, you must guard against conflict that can spiral into team-damaging issues that tarnish relationships, decrease morale, and hamper productivity.” (Dubberke, 2018)
+
+As can be seen, it is more important than ever to know how to handle these conflict situations. But with so many different and diverse cultures around the world it is not an easy task to do so. Creating business relationships with bussinesses from countries with different cultures may require more preparation than with ones from the same country. Knowing what to expect from and how to handle the conflicts that may arise from the interactions with people from these cultures should be one of the highest priorities when looking at business. And so, to kickstart this research, we present the following well known framework for differentiating between cultures by Van der Zee & Hofhuis (2018):
+Hofstede’s cultural dimensions cited by Van der Zee & Hofhuis
+
+"The best-known framework for differentiating between cultures is that by Hofstede. It divides conflict styles between four cultural dimensions: individualism/collectivism, power distance, masculinity/femininity, and uncertainty avoidance." (Van der Zee & Hofhuis, 2018)
+Individualism/collectivism
+"Most studies on cultural differences in conflict styles have been related to the dimension individualism/collectivism, which Hofstede claims to be the core component of cultural variability. Individualist cultures emphasize the importance of the individual, while collectivist cultures emphasize the importance of groups and relationships with others. When relating this dimension to conflict, the main proposition is that in individualist cultures, there is a stronger focus on the dimension «concern for self,» whereas collectivist cultures place more emphasis on the dimension «concern for others,» thus influencing the preferred negotiation strategies of individuals." (Van der Zee & Hofhuis, 2018)
+
+Power distance
+"Refers to the degree to which members of a culture tend to accept the notion that power is distributed unequally. High power distance societies are characterized by an acceptance of hierarchy, whereas in low power distance societies, there is a stronger tendency to question authority." (Van der Zee & Hofhuis, 2018)
+
+Masculinity/Femininity
+"Refers to the degree of role division between genders. In masculine countries there is a preference for men and women to behave in accordance with traditional gender roles, whereas in feminine cultures this preference is less pronounced." (Van der Zee & Hofhuis, 2018)
+
+Uncertainty avoidance
+"Refers to the degree to which individuals tolerate uncertainty and ambiguity in life. Within cultures that are said to be highly uncertainty avoidant, security and predictability are valued more strongly, and social interactions tend to be governed by formal rules and guidelines." (Van der Zee & Hofhuis, 2018)
+
+Secrets of cross-cultural communication
+
+The following video is an example that shows how the perception of a conflict varies across different cultures. Practices that are used in some cultures can have a significant impact on the perception, by other cultures, of the existing conflict.
+Kellogg School of Management. (2015, July 31). Secrets of cross-cultural communication [Video]. YouTube. https://www.youtube.com/watch?v=kujUs_6qeUI
+https://www.youtube.com/watch?v=kujUs_6qeUI
+So, in conclusion...
+
+While we have shown you one way to differentiate between cultures, it is very important that your research doesn't stop here. When a business opportunity with another culture arises, make it your mission to research and understand that culture, generalizing and categorizing can help in these instances, but understanding the nuances of each culture is what will give you the edge you need to come out of these interactions with a solid and positive business relationship.
+All done? Let's do some exercises!
+References
+
+Dubberke, S. (2018, December 7). Conflict Resolution for Working Across Cultures. Culturewizard. https://www.rw-3.com/blog/conflict-resolution-for-working-across-cultures
+
+fauxels. (2019, November 5). Photo Of People Leaning On Wooden Table [Photograph]. Pexels. https://www.pexels.com/photo/photo-of-people-leaning-on-wooden-table-3184325/
+
+Kellogg School of Management. (2015, July 31). Secrets of cross-cultural communication [Video]. YouTube. https://www.youtube.com/watch?v=kujUs_6qeUI
+
+Van der Zee, K. I., & Hofhuis, J. (2018). Conflict management styles across cultures. The International Encyclopedia of Intercultural Communication [Internet]. Hoboken, NJ: John Wiley & Sons, Inc, 1-9.
+
+
+== cultural_differences_vid.html ==
+Cultural Differences in Negotiations and Conflicts
+
+Culture influences how individuals negotiate and how they view or interpret the negotiation process. International negotiations is the field that aims to understand how one culture may look at the negotiation process in a totally different way than another, in order to be able to minimize the conflicts that may be created in this process.
+Robert Robles. (2015, November 22). Cultural Differences in Negotiations and Conflicts [Video]. YouTube. https://www.youtube.com/watch?v=rSDntIn6ekE
+https://www.youtube.com/watch?v=rSDntIn6ekE&ab_channel=RobertROBLES
+
+
+== cultural_differences_paper.html ==
+Conflict management styles across cultures
+
+Van der Zee, K. I., & Hofhuis, J. (2018). Conflict management styles across cultures. The International Encyclopedia of Intercultural Communication [Internet]. Hoboken, NJ: John Wiley & Sons, Inc, 1-9.
+https://www.researchgate.net/publication/320471354_Conflict_management_styles_across_cultures
+Conflict Management across Different Cultures
+
+
+== cultural_differences_exercises.html ==
+Conflict Management across Different Cultures - Exercises
+1. Select the only correct option
+
+All cultures handle conflict in the same way.
+True
+False
+
+Correct, “since different cultures often have different approaches to conflict-resolution” (Dubberke, 2018) cultures do not handle conflicts in the same manner.
+Wrong, each culture has its own way of dealing with conflicts, and so, for one specific conflict different cultures handle it in different ways.
+
+
+2. Select the only correct option
+What is the core component of cultural variability?
+Power distance
+Individualism/collectivism
+Masculinity/Femininity
+Uncertainty avoidance
+
+Correct, Individualism and collectivism are considered the core components of cultural variability, collectivist cultures highlight the relationships with others as oposed to individualist cultures.
+Wrong... Try again!
+
+3. Select the only correct option
+
+In the example of the ratling bikes, how could the conflict be avoided?
+Have the bikes manufactured within the western culture rather than going for eastern cultures.
+Instead of assuming that the manufacturer understood the problem correctly, properly explain the existing conflict and understand that different cultures handle conflicts differently.
+In western cultures, the problem is identified, blame is assigned and responsibility for the fix is also assigned. This should always be the way of dealing with conflict, and so in this case, the conflict could not be avoided.
+
+Correct, properly explaining the existing problem leads to better management of the conflict.
+Wrong... Try again!
+
+4. Select the only option that completes the sentence
+
+Individualist cultures...
+Place a stronger focus on the dimension "concern for self"
+Place more emphasis on the dimension "concern for others"
+
+Correct, individualist cultures highlight the importance of the individual.
+Wrong, collectivist cultures are the ones who place more importance on the "concern for others"
+
+Submit!
+Congratulations! You got all questions right!
+Ooops! Looks like you missed a few.
+
+Well done! You've just completed this topic! 🎉🥳
+Congratulations on completing this topic of learning!
+
+This was the final topic so we want to thank you for learning more about Complaints and Conflicts with us!
+Feel free to go back to the main page and revisit the other topics to your heart's content.
+
+We hope you enjoyed your experience in our platform!
+- Sincerely, the Complainer Trainer Team
+
+Back to Main Page

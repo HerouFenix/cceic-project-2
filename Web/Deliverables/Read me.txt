@@ -10,7 +10,7 @@ Para utilizar o Complainer Trainer basta:
 Separamos cada um dos nossos topicos de aprendizagem sobre Complaints e Conflicts em paginas individuais para facilitar a aprendizagem.
 Cada tópico, facilmente acessivel como descrito em cima, contem:
 	- Uma página inicial com descrições e explicações por escrito sobre o tópico. 
-	- Vários materiais suplementares (opcionais), desde videos, a blogs e papers, que ajudarão o leitor a aprofundar a sua compreensão sobre o tema, servindo portanto como um "Suplemento" à aprendizagem do tópico. A visualização/leitura destes conteudos não é necessaria para responder aos exercisios.
+	- Vários materiais suplementares, desde videos, a blogs e papers, que ajudarão o leitor a aprofundar a sua compreensão sobre o tema, servindo portanto como um "Suplemento" à aprendizagem do tópico (daí o nome "Supplementary Materials")
 	- Uma página de exercisios que permitirão ao leitor assentar os seus conhecimentos adquiridos e por em pratica o que aprendeu ao longo do topico
 
 O utilizador pode aprender sobre os topicos pela ordem que desejar, porém quando os exercisios de um dado tópico sao completados, o utilizador é apresentado com a escolha de voltar à pagina principal, ou de continuar para o próximo topico de aprendizagem na lista diretamente.
@@ -21,4 +21,4 @@ O utilizador pode aprender sobre os topicos pela ordem que desejar, porém quand
 3 - Diferenciar PWOM de NWOM (PWOM vs NWOM)
 4 - Distinguir e caracterizar as diferentes fases da gestão profissional de reclamações (Phases of Professional Complaint Management)
 5 - Definir pensamento alternativo (Alternative Thinking)
-6 - [ORIGINAL TOPIC] (Conflict Management across Different Cultures)
+6 - [ORIGINAL TOPIC] (Understanding Conflict Management across Different Cultures)
