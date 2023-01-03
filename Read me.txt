@@ -1,6 +1,6 @@
 == COMO UTILIZAR O COMPLAINER TRAINER ==
 Para utilizar o Complainer Trainer basta:
- 1. Aceder a pagina online - https://complainertrainer.netlify.app/
+ 1. Aceder a pagina online - https://complainer-trainer.netlify.app/
  2. Fazer scroll down ate à secção "Our Learning Topics" e selecionar um deles (ou alternativamente clicar num dos titulos dos capitulos na barra superior)
  3. Percorrer os conteudos presentes no site, ler as descricoes, realizar os exercicios praticos e disfrutar da aprendizagem!
 
